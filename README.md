@@ -25,7 +25,7 @@ The codes are tested on Ubuntu 18.04 environment (Python3.6.9, PyTorch1.5.0, tor
 Pre-trained model & Pre-computed saliency maps
 ---
 v1: model [Baidu](https://pan.baidu.com/s/1O5QsWWOjhPMGOWIiIwSX3A)(bc3k) [Google](https://drive.google.com/file/d/1KHmKrAG1M_C0mYgSD8pz9fDmBn2LtoMJ/view?usp=sharing); smaps [Baidu](https://pan.baidu.com/s/13I2F0dPU5mPmklcxbex0Lw)(kp6t) [Google](https://drive.google.com/file/d/1lT_BkFMuD8kPVkjQRR7HVBDzQnY3VkfB/view?usp=sharing)<br>
-v2: <br>
+v2: model [Baidu](https://pan.baidu.com/s/1XB3VE175bhT_4urBULJ-IQ)(wbz1) Google; smaps [Baidu](https://pan.baidu.com/s/1HZWx6eqYq7bAUcBtkw75Sw)(j57z) Google<br>
 
 Citation
 ---
