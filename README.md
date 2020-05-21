@@ -5,7 +5,7 @@ The pytorch code for our TIP paper: [Reverse Attention Based Residual Network fo
 
 Notice
 ---
-We use ResNet50 as backbone and add the [IoU loss](https://github.com/NathanUA/BASNet)[1] for better performance in this pytorch implemention. The original caffe version is [here](https://github.com/ShuhanChen/RAS_ECCV18). We provide two versions with different training strategies.<br>
+We use ResNet50 as backbone and add the [IoU loss](https://github.com/NathanUA/BASNet)[1] for better performance in this pytorch implementation. The original caffe version is [here](https://github.com/ShuhanChen/RAS_ECCV18). We provide two versions with different training strategies.<br>
 v1: The same training strategy with [CPD](https://github.com/wuzhe71/CPD)[2].<br>
 v2: The same training strategy with [F3Net](https://github.com/weijun88/F3Net)[3].<br>
 
