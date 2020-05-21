@@ -13,8 +13,8 @@ Usage
 ---
 Modify the pathes of datasets, then run:<br>
 ```
-Training: python3 train.py<br>
-Testing: python3 test.py<br>
+Training: python3 train.py
+Testing: python3 test.py
 ```
 
 Performace
