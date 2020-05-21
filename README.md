@@ -19,6 +19,8 @@ Testing: python3 test.py
 
 Performace
 ---
+The codes are tested on Ubuntu 18.04 environment (Python3.6.9, PyTorch1.5.0, torchvision0.6.0, CUDA10.2, cuDNN7.6.5) with RTX 2080Ti GPU.
+
 
 Pre-trained model & Pre-computed saliency maps
 ---
