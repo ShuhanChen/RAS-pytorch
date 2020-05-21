@@ -9,6 +9,11 @@ We use ResNet50 as backbone and add the [IoU loss](https://github.com/NathanUA/B
 v1: The same training strategy with [CPD](https://github.com/wuzhe71/CPD)[2].<br>
 v2: The same training strategy with [F3Net](https://github.com/weijun88/F3Net)[3].<br>
 
+Usage
+---
+Training:<br>
+Testing:<br>
+
 
 Citation
 ---
