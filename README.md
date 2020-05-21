@@ -20,11 +20,9 @@ Testing: python3 test.py
 Performace
 ---
 
-Pre-trained model
+Pre-trained model & Pre-computed saliency maps
 ---
 
-Pre-computed saliency maps
----
 
 
 Citation
@@ -48,12 +46,12 @@ Citation
 } 
 ```
 
+Acknowledgements
+---
+This code is built on [CPD](https://github.com/wuzhe71/CPD)[2] and [F3Net](https://github.com/weijun88/F3Net)[3]. We thank the authors for sharing their codes.
+
 Reference
 ---
 [1] Xuebin Qin, Zichen Zhang, Chenyang Huang, Chao Gao, Masood Dehghan, Martin Jagersand. BASNet: Boundary-Aware Salient Object Detection. In CVPR, 2019.<br>
 [2] Zhe Wu, Li Su, Qingming Huang. Cascaded Partial Decoder for Fast and Accurate Salient Object Detection. In CVPR, 2019.<br>
 [3] Jun Wei, Shuhui Wang, Qingming Huang. F3Net: Fusion, Feedback and Focus for Salient Object Detection. In AAAI, 2020.<br>
-
-Acknowledgements
----
-This code is built on [CPD](https://github.com/wuzhe71/CPD)[2] and [F3Net](https://github.com/weijun88/F3Net)[3]. We thank the authors for sharing their codes.
