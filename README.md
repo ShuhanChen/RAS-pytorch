@@ -30,14 +30,6 @@ v2: model [Baidu](https://pan.baidu.com/s/1XB3VE175bhT_4urBULJ-IQ)(wbz1) [Google
 Citation
 ---
 ```
-@inproceedings{chen2018eccv, 
-  author={Chen, Shuhan and Tan, Xiuli and Wang, Ben and Hu, Xuelong}, 
-  booktitle={European Conference on Computer Vision}, 
-  title={Reverse Attention for Salient Object Detection}, 
-  year={2018}
-} 
-```
-```
 @article{chen2020tip, 
   author={Chen, Shuhan and Tan, Xiuli and Wang, Ben and Lu, Huchuan and Hu, Xuelong and Fu, Yun}, 
   journal={IEEE Transactions on Image Processing}, 
@@ -45,6 +37,14 @@ Citation
   volume={29},  
   pages={3763-3776},
   year={2020}
+} 
+```
+```
+@inproceedings{chen2018eccv, 
+  author={Chen, Shuhan and Tan, Xiuli and Wang, Ben and Hu, Xuelong}, 
+  booktitle={European Conference on Computer Vision}, 
+  title={Reverse Attention for Salient Object Detection}, 
+  year={2018}
 } 
 ```
 
