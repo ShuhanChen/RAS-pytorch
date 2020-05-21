@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+import torchvision.models as models
 
 def weight_init(module):
     for n, m in module.named_children():
