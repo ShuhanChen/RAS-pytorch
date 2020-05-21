@@ -11,7 +11,7 @@ v2: The same training strategy with [F3Net](https://github.com/weijun88/F3Net)[3
 
 Usage
 ---
-Modify the pathes of datasets, then run:
+Modify the pathes of datasets, then run:<br>
 Training: python3 train.py<br>
 Testing: python3 test.py<br>
 
