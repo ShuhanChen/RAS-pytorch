@@ -1,5 +1,5 @@
 # RAS-pytorch
-The pytorch code for our TIP paper: [Reverse Attention Based Residual Network for Salient Object Detection](https://ieeexplore.ieee.org/document/8966594)
+The pytorch code for our TIP2020 paper: [Reverse Attention Based Residual Network for Salient Object Detection](https://ieeexplore.ieee.org/document/8966594)
 
 ---
 
