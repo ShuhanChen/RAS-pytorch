@@ -19,7 +19,7 @@ Testing: python3 test.py
 
 Performace
 ---
-The codes are tested on Ubuntu 18.04 environment (Python3.6.9, PyTorch1.5.0, torchvision0.6.0, CUDA10.2, cuDNN7.6.5) with RTX 2080Ti GPU. We select several recent SOTA methods for comparisons.
+The codes are tested on Ubuntu 18.04 environment (Python3.6.9, PyTorch1.5.0, torchvision0.6.0, CUDA10.2, cuDNN7.6.5) with RTX 2080Ti GPU. We select several recent SOTA methods for comparisons. The evaluation code can be found [here](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).
 ![Quantitative comparisons](https://github.com/ShuhanChen/RAS-pytorch/blob/master/figs/result.png)
 
 
