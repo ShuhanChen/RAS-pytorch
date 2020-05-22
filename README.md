@@ -6,8 +6,8 @@ The pytorch code for our TIP paper: [Reverse Attention Based Residual Network fo
 Notice
 ---
 We use ResNet50 as backbone and add the [IoU loss](https://github.com/NathanUA/BASNet)[1] for better performance in this pytorch implementation. The original caffe version is [here](https://github.com/ShuhanChen/RAS_ECCV18). We provide two versions with different training strategies.<br>
-v1: The same training strategy with [CPD](https://github.com/wuzhe71/CPD)[2].<br>
-v2: The same training strategy with [F3Net](https://github.com/weijun88/F3Net)[3].<br>
+- v1: The same training strategy with [CPD](https://github.com/wuzhe71/CPD)[2].<br>
+- v2: The same training strategy with [F3Net](https://github.com/weijun88/F3Net)[3].<br>
 
 Usage
 ---
@@ -25,8 +25,8 @@ The codes are tested on Ubuntu 18.04 environment (Python3.6.9, PyTorch1.5.0, tor
 
 Pre-trained model & Pre-computed saliency maps
 ---
-v1: model [Baidu](https://pan.baidu.com/s/1O5QsWWOjhPMGOWIiIwSX3A)(bc3k) [Google](https://drive.google.com/file/d/1KHmKrAG1M_C0mYgSD8pz9fDmBn2LtoMJ/view?usp=sharing); smaps [Baidu](https://pan.baidu.com/s/13I2F0dPU5mPmklcxbex0Lw)(kp6t) [Google](https://drive.google.com/file/d/1lT_BkFMuD8kPVkjQRR7HVBDzQnY3VkfB/view?usp=sharing)<br>
-v2: model [Baidu](https://pan.baidu.com/s/1XB3VE175bhT_4urBULJ-IQ)(wbz1) [Google](https://drive.google.com/open?id=14WUbyPiKnEafiMu9CWn5EdTAJpF_VqLj); smaps [Baidu](https://pan.baidu.com/s/1HZWx6eqYq7bAUcBtkw75Sw)(j57z) [Google](https://drive.google.com/open?id=1RwyR6GRAiDxeywRT1VjLe3qa_z7uhUWa)<br>
+- v1: model [Baidu](https://pan.baidu.com/s/1O5QsWWOjhPMGOWIiIwSX3A)(bc3k) [Google](https://drive.google.com/file/d/1KHmKrAG1M_C0mYgSD8pz9fDmBn2LtoMJ/view?usp=sharing); smaps [Baidu](https://pan.baidu.com/s/13I2F0dPU5mPmklcxbex0Lw)(kp6t) [Google](https://drive.google.com/file/d/1lT_BkFMuD8kPVkjQRR7HVBDzQnY3VkfB/view?usp=sharing)<br>
+- v2: model [Baidu](https://pan.baidu.com/s/1XB3VE175bhT_4urBULJ-IQ)(wbz1) [Google](https://drive.google.com/open?id=14WUbyPiKnEafiMu9CWn5EdTAJpF_VqLj); smaps [Baidu](https://pan.baidu.com/s/1HZWx6eqYq7bAUcBtkw75Sw)(j57z) [Google](https://drive.google.com/open?id=1RwyR6GRAiDxeywRT1VjLe3qa_z7uhUWa)<br>
 
 Citation
 ---
