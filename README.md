@@ -14,7 +14,7 @@ Usage
 Modify the pathes of datasets, then run:<br>
 ```
 Training: python3 train.py
-Testing: python3 test.py
+Testing:  python3 test.py
 ```
 
 Performace
