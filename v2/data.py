@@ -107,7 +107,7 @@ class Data(Dataset):
             image = self.normalize(image)
             image = self.resize(image)
             image = self.totensor(image)
-            return image, shape, name
+            return image, shape, image_name
 
     def collate(self, batch):
         size = [224, 256, 288, 320, 352][np.random.randint(0, 5)]
